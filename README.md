@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor Web <br>- Desenvolvedor Front-end</p>
+<p align="left">- Estudante de CyberSegurança </p>
 
 ###
 
